@@ -2,7 +2,7 @@
 This is my first excel project using pivot tables. 
 In this week, we learned how to use the relevant graphs to represent a dataset 
 
-In this project, I analyzed the National Park Services (NPS) dataset to provide insight on the following:
+In this project, I analyzed the National Park Services (NPS) dataset and I was tasked to figure out the following:
 
 1. How many people visited different parks in Colorado state?
 
